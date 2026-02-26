@@ -1,14 +1,7 @@
 # Cabbagetic 2.0
 Welcome to the Cabbagetic 2.0 [Under construction 🚧🏗️👷‍♂️🛠️⚙️]
 
-<h2 align="center">New Updates</h2>
-First of all I guess you've reached here from my discord account about me.. so you're welcome
-
-Since my exams are coming up soon, I won't be available on Discord for more than 15 minutes a day.
-
-​If you're trying to start a server and ping me, it'll likely be a waste of time. I might pop online a few times throughout the day, but I’m trying to limit my time to 15 minutes total. See you all soon!
-
-​For now, feel free to scroll down 👇 and enjoy some of the stuff below. Maybe try to get a high score and send it to my DMs!
+​For now, feel free to scroll down 👇 and enjoy some of the stuff below. Maybe try to get a high score.
 
 ## Breathing_cabbage
 [Teleport](https://cabbagetic-2-0.github.io/.github/Breathing_cabbage/)
