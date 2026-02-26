@@ -6,11 +6,15 @@ Welcome to the Cabbagetic 2.0 [Under construction 🚧🏗️👷‍♂️🛠�
 ## Breathing_cabbage
 [Teleport](https://cabbagetic-2-0.github.io/.github/Breathing_cabbage/)
 
+This project is made with help of AI but soon this will be renewed without any help of AI
+
 ## Profile
 [Teleport](https://cabbagetic-2-0.github.io/.github/profile)
 
 ## Asteroids-game
 [Teleport](https://cabbagetic-2-0.github.io/asteroids-game/)
+
+This project is made with help of AI but soon this will be renewed without any help of AI
 
 ## Emoji-update2-repo
 [Teleport](https://github.com/Cabbagetic-2-0/Emoji-updates)
