@@ -24,7 +24,7 @@ This project is made with help of AI but soon this will be renewed without any h
 
 Welcome to our Discord server! Please note that you need to apply to join. The server is still under construction, though we’ve somehow made it to the Alpha stage.
 
-​Also, the results for [#Emoji-update-repository](https://cabbagetic-2-0.github.io/.github/#emoji-updates-repository) only work inside the Discord server. If you run it elsewhere, you won't get the emojis—you'll only see the names.. hehe.
+​Also, the results for [#Emoji-updates-repository](https://cabbagetic-2-0.github.io/.github/#emoji-updates-repository) only work inside the Discord server. If you run it elsewhere, you won't get the emojis—you'll only see the names.. hehe.
 
 ​Sup?
 
