@@ -1,14 +1,4 @@
-# Cabbagetic 2.0
-Welcome to the Cabbagetic 2.0 [Under construction 🚧🏗️👷‍♂️🛠️⚙️]
-
-​For now, feel free to scroll down 👇 and enjoy some of the stuff below. Maybe try to get a high score.
-
-## Breathing_cabbage
-[Teleport](https://cabbagetic-2-0.github.io/.github/Breathing_cabbage/)
-
-This project is made with help of AI but soon this will be renewed without any help of AI
-
-## Profile
+fucjcjcudhfuhfucrefe
 [Teleport](https://cabbagetic-2-0.github.io/.github/profile)
 
 ## Asteroids-game
