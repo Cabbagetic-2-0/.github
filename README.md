@@ -20,7 +20,7 @@ This project is made with help of AI but soon this will be renewed without any h
 [Teleport](https://github.com/Cabbagetic-2-0/Emoji-updates)
 
 ## Discord Server (Stage: Alpha)
-[Teleport](https://www.discord.gg/Ftb4a6A6pv)
+[Teleport](https://discord.gg/CvwmPMAvnf)
 
 Welcome to our Discord server! Please note that you need to apply to join. The server is still under construction, though we’ve somehow made it to the Alpha stage.
 
