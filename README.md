@@ -1,4 +1,5 @@
-# Cabbagetic 2.0
+<h1 align="center">Cabbagetic 2.0</h1>
+
 Welcome to the Cabbagetic 2.0 [Under construction 🚧🏗️👷‍♂️🛠️⚙️]
 
 ​For now, feel free to scroll down 👇 and enjoy some of the stuff below. Maybe try to get a high score.
@@ -35,3 +36,11 @@ It's inactive, so don't click 👉 [Teleport]
 
 ## Admin panel for making changes on this README.md file
 [Teleport](https://cabbagetic-2-0.github.io/.github/Admin/)
+
+
+<h2 align="center">Cabbagetic</h2>
+
+__Do you want to see the previous version of Cabbagetic?__
+
+You are allowed to [teleport](https://cabbagetic.github.io/.github).
+
