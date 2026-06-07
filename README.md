@@ -34,7 +34,7 @@ Welcome to our Discord server! Please note that you need to apply to join. The s
 ## Youtube
 It's inactive, so don't click 👉 [Teleport]
 
-## Admin panel for making changes on this README.md file
+## Admin panel for making changes on this page
 [Teleport](https://cabbagetic-2-0.github.io/.github/Admin/)
 
 
